@@ -1,0 +1,7 @@
+{
+	"label": "Jellyfin Movie Player - Testing",
+	"icon": "/mnt/SDCARD/Icons/Default/app/ffplay.png",
+	"launch": "launch.sh",
+	"description": "Stream movies from your Jellyfin server"
+}
+
