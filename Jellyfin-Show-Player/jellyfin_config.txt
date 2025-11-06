@@ -1,0 +1,3 @@
+# User ID will also be generated here automatically
+SERVER_URL="https://YOUR.SERVER.HERE.com"
+API_KEY="ENTER YOUR API KEY HERE"
