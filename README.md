@@ -13,7 +13,7 @@ This program uses the ffplay port already on Onion OS to stream video content fr
 * Menu / Center Button: Open app main menu / exit content.
 
 # Quirks
-* Only forward skip: Due to the limitations of the specific version of ffplay, only forward skip is available.
+* Only forward skip: Due to the limitations of this specific version of ffplay.
 
 # Known Issues
 * Some instability with playback.
