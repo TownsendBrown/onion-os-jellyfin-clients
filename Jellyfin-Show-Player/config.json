@@ -2,6 +2,6 @@
 	"label": "Jellyfin Show Player - Testing",
 	"icon": "/mnt/SDCARD/Icons/Default/app/ffplay.png",
 	"launch": "launch.sh",
-	"description": "Stream TV shows from your Jellyfin server"
+	"description": "Stream shows from your Jellyfin server"
 }
 
