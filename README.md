@@ -16,5 +16,5 @@ This program uses the ffplay port already on Onion OS to stream video content fr
 * Only forward skip: Due to the limitations of the specific version of ffplay, only forward skip is available.
 
 # Known Issues
-* Instability
+* Some instability with playback
 * Crashing when selecting new content, particularly when reselecting after initially starting the app.
