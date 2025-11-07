@@ -1,5 +1,5 @@
 # Onion OS Jellyfin Client
-*![img](./img/i2c.png)
+![img](./img/i2c.png)
 
 # Description
 This program uses the ffplay port already on Onion OS to stream movies or shows from a Jellyfin server. This program is currently set up to use an API Key and specifically find movie or show type content on the server.
