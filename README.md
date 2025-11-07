@@ -9,7 +9,7 @@ This program uses the ffplay port already on Onion OS to stream movies or shows 
 * Onion OS installation
 
 # Installation
-* USING THE PROVIDED CONFIG: Update the SERVER_URL and API_KEY lines in the jellyfin_config.txt files inside the app folders.
+* USING THE PROVIDED CONFIG: Update the SERVER_URL and API_KEY lines in the jellyfin_config.txt files inside BOTH app folders.
 * Place jellyfin client folder(s) into the App folder located in the root of the SD card.
 
 # Usage
